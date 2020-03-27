@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virev_09172019.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jesse\\Documents\\Unity_games\\Virev_09172019\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virev_09172019 [Testing]"
+        }
+      }
+    }
+  ]
+}
